@@ -14,7 +14,7 @@
     "fastclick": "=1.0.6",
     "jquery": "^3.3.1",
     "js-cookie": "=2.2.0",
-    "moment": "^2.22.0",
+    "moment": "^2.29.4",
     "qg-vue-components2": "=0.9.7",
     "qiniu-js": "^1.0.22",
     "qs": "^6.5.1",
